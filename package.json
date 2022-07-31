@@ -19,7 +19,7 @@
     "url": "https://github.com/chenshuai2144/antd-theme-variable/issues"
   },
   "homepage": "https://github.com/chenshuai2144/antd-theme-variable#readme",
-  "dependencies": {
+  "devDependencies": {
     "antd": "^4.22.2",
     "less": "^4.1.3"
   }
